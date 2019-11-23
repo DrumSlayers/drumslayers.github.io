@@ -5,6 +5,29 @@
   License: https://bootstrapmade.com/license/
 */
 
+/* custom airthelan */
+.discord{
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.staff{
+  padding-top: 7px;
+  padding-bottom: 15px;
+}
+
+.staff h3{
+  margin: 0 0 2px 0;
+}
+
+.staff h6{
+  margin: 0 0 10px 0;
+}
+
+.img-staff {
+  border-radius: 10px;
+}
 /*--------------------------------------------------------------
 # General
 --------------------------------------------------------------*/
@@ -1418,8 +1441,11 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #footer .footer-top .footer-info img {
-  height: 40px;
+  width: 70%;
   margin-bottom: 10px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 #footer .footer-top .footer-info p {
