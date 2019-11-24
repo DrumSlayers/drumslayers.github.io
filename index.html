@@ -34,7 +34,7 @@
   <link href="lib/owlcarousel/assets/owl.carousel.min.css" rel="stylesheet">
 
   <!-- Main Stylesheet File -->
-  <link href="css/style.css" rel="stylesheet">
+  <link href="css/airthelan.css" rel="stylesheet">
 </head>
 
 <body>
@@ -58,7 +58,7 @@
           <li><a href="#schedule">Planning</a></li>
           <li><a href="#discord">Discord</a></li>
             <li><a href="#faq">FAQ</a></li>
-          <li class="buy-tickets"><a href="#buy-tickets">Billetterie</a></li>
+          <li class="buy-tickets"><a href="#buy-tickets">Inscription / Billetterie</a></li>
         </ul>
       </nav><!-- #nav-menu-container -->
     </div>
@@ -316,7 +316,7 @@ Attend pas, et inscrit toi!</p>
               <div class="col-md-2"><time>17h15-18h00</time></div>
               <div class="col-md-10">
                 <div class="speaker">
-                  <img src="img/ico/minecraft.jpg" alt="Minecraft">
+                  <img src="img/ico/minecraft.png" alt="Minecraft UHC">
                 </div>
                 <h4>Tournoi Minecraft UHC</h4>
                 <p>Equipez-vous, la bataille risque d'être longue...</p>
@@ -478,8 +478,8 @@ Attend pas, et inscrit toi!</p>
       <div class="container">
 
         <div class="section-header">
-          <h2>Billetterie</h2>
-          <p>Fais chauffer ta carte bleue</p>
+          <h2>Inscription / Billetterie</h2>
+          <p>Participe à notre LAN de folie</p>
         </div>
 
         <div class="row" style="padding-bottom: 40px">
@@ -496,7 +496,8 @@ Attend pas, et inscrit toi!</p>
                 </ul>
                 <hr>
                 <div class="text-center">
-                  <button type="button" class="btn" data-toggle="modal" data-target="#buy-ticket-modal" data-ticket-type="standard-access">S'inscrire</button>
+                  <!-- <button type="button" class="btn" data-toggle="modal" data-target="#buy-ticket-modal" data-ticket-type="standard-access">S'inscrire</button> -->
+                  <button type="button" class="btn" onclick="window.open('https://surl.drumslayer.ovh/inscription_airthelan-v2')">S'inscrire</button>
                 </div>
               </div>
             </div>
@@ -506,7 +507,8 @@ Attend pas, et inscrit toi!</p>
 
       </div>
 
-      <!-- Modal Order Form -->
+      <!-- Popup inscription - perimé -->
+      <!--
       <div id="buy-ticket-modal" class="modal fade">
         <div class="modal-dialog" role="document">
           <div class="modal-content">
@@ -532,9 +534,10 @@ Attend pas, et inscrit toi!</p>
                 </div>
               </form>
             </div>
-          </div><!-- /.modal-content -->
-        </div><!-- /.modal-dialog -->
-      </div><!-- /.modal -->
+          </div>
+        </div>
+      </div>
+    -->
     </section>
 
 
@@ -572,7 +575,9 @@ Attend pas, et inscrit toi!</p>
 
     <div class="container">
       <div class="copyright">
-        &copy; <strong>AirThéLAN</strong> 2019-2020
+        &copy; <strong>AirThéLAN</strong> 2019-2020 <br>
+        &copy; <strong>Association E.T.E.R - R&T Blois</strong> 2019-2020 <br>
+          
       </div>
       <div class="credits">
         Fait avec ♥ par <a href="https://github.com/DrumSlayers/drumslayers.github.io">Avelinnt</a>
@@ -592,9 +597,6 @@ Attend pas, et inscrit toi!</p>
   <script src="lib/wow/wow.min.js"></script>
   <script src="lib/venobox/venobox.min.js"></script>
   <script src="lib/owlcarousel/owl.carousel.min.js"></script>
-
-  <!-- Contact Form JavaScript File -->
-  <script src="contactform/contactform.js"></script>
 
   <!-- Template Main Javascript File -->
   <script src="js/main.js"></script>
