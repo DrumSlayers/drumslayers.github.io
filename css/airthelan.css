@@ -42,7 +42,7 @@ body {
 }
 
 a {
-  color: #f82249;
+  color: #e71f3c;
   transition: 0.5s;
 }
 
@@ -98,7 +98,7 @@ h6 {
 .back-to-top {
   position: fixed;
   display: none;
-  background: #f82249;
+  background: #e71f3c;
   color: #fff;
   width: 40px;
   height: 40px;
@@ -140,7 +140,7 @@ h6 {
   display: block;
   width: 60px;
   height: 5px;
-  background: #f82249;
+  background: #e71f3c;
   bottom: 0;
   left: calc(50% - 25px);
 }
@@ -201,7 +201,7 @@ h6 {
 }
 
 #header #logo h1 span {
-  color: #f82249;
+  color: #e71f3c;
 }
 
 #header #logo h1 a,
@@ -314,7 +314,7 @@ h6 {
   height: 2px;
   bottom: 0;
   left: 0;
-  background-color: #f82249;
+  background-color: #e71f3c;
   visibility: hidden;
   transition: all 0.3s ease-in-out 0s;
 }
@@ -328,10 +328,10 @@ h6 {
 
 .nav-menu li.buy-tickets a {
   color: #fff;
-  background: #f82249;
+  background: #e71f3c;
   padding: 7px 22px;
   border-radius: 50px;
-  border: 2px solid #f82249;
+  border: 2px solid #e71f3c;
   transition: all ease-in-out 0.3s;
   font-weight: 500;
   margin-left: 8px;
@@ -372,7 +372,7 @@ h6 {
 }
 
 .nav-menu ul li:hover > a {
-  background: #f82249;
+  background: #e71f3c;
   color: #fff;
 }
 
@@ -439,7 +439,7 @@ h6 {
 }
 
 #mobile-nav ul li a:hover {
-  color: #f82249;
+  color: #e71f3c;
 }
 
 #mobile-nav ul li li {
@@ -456,11 +456,11 @@ h6 {
 }
 
 #mobile-nav ul .menu-has-children i.fa-chevron-up {
-  color: #f82249;
+  color: #e71f3c;
 }
 
 #mobile-nav ul .menu-item-active {
-  color: #f82249;
+  color: #e71f3c;
 }
 
 #mobile-body-overly {
@@ -543,7 +543,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #intro h1 span {
-  color: #f82249;
+  color: #e71f3c;
 }
 
 #intro p {
@@ -555,7 +555,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 #intro .play-btn {
   width: 94px;
   height: 94px;
-  background: radial-gradient(#f82249 50%, rgba(101, 111, 150, 0.15) 52%);
+  background: radial-gradient(#e71f3c 50%, rgba(101, 111, 150, 0.15) 52%);
   border-radius: 50%;
   display: block;
   position: relative;
@@ -602,7 +602,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #intro .play-btn:hover::after {
-  border-left: 15px solid #f82249;
+  border-left: 15px solid #e71f3c;
   -webkit-transform: scale(20);
   transform: scale(20);
 }
@@ -640,11 +640,11 @@ body.mobile-nav-active #mobile-nav-toggle {
   color: #fff;
   -webkit-animation-delay: 0.8s;
   animation-delay: 0.8s;
-  border: 2px solid #f82249;
+  border: 2px solid #e71f3c;
 }
 
 #intro .about-btn:hover {
-  background: #f82249;
+  background: #e71f3c;
   color: #fff;
 }
 
@@ -768,7 +768,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #speakers .speaker .details a:hover {
-  color: #f82249;
+  color: #e71f3c;
 }
 
 #speakers .speaker:hover .details {
@@ -803,7 +803,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #speakers-details .details .social a:hover {
-  background: #f82249;
+  background: #e71f3c;
   color: #fff;
 }
 
@@ -848,7 +848,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #schedule .nav-tabs a.active {
-  background-color: #f82249;
+  background-color: #e71f3c;
   color: #fff;
 }
 
@@ -1021,7 +1021,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #hotels a:hover {
-  color: #f82249;
+  color: #e71f3c;
 }
 
 #hotels .stars {
@@ -1071,7 +1071,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #gallery .owl-dot.active {
-  background-color: #f82249;
+  background-color: #e71f3c;
 }
 
 #gallery .gallery-carousel .owl-stage-outer {
@@ -1079,7 +1079,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #gallery .gallery-carousel .center {
-  border: 6px solid #f82249;
+  border: 6px solid #e71f3c;
   margin: -10px;
   box-sizing: content-box;
   padding: 4px;
@@ -1168,7 +1168,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #faq #faq-list a.collapse {
-  color: #f82249;
+  color: #e71f3c;
 }
 
 #faq #faq-list a.collapsed {
@@ -1221,7 +1221,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   border: 0;
   padding: 9px 25px;
   cursor: pointer;
-  background: #f82249;
+  background: #e71f3c;
   color: #fff;
   transition: all 0.3s ease;
   outline: none;
@@ -1281,7 +1281,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   border-radius: 50px;
   padding: 10px 40px;
   transition: all 0.2s;
-  background-color: #f82249;
+  background-color: #e71f3c;
   border: 0;
   color: #fff;
 }
@@ -1300,7 +1300,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   border-radius: 50px;
   padding: 10px 40px;
   transition: all 0.2s;
-  background-color: #f82249;
+  background-color: #e71f3c;
   border: 0;
   color: #fff;
 }
@@ -1326,7 +1326,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   font-size: 48px;
   display: inline-block;
   margin-bottom: 10px;
-  color: #f82249;
+  color: #e71f3c;
 }
 
 #contact .contact-info address,
@@ -1348,7 +1348,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #contact .contact-info a:hover {
-  color: #f82249;
+  color: #e71f3c;
 }
 
 #contact .contact-address,
@@ -1358,8 +1358,8 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #contact .form #sendmessage {
-  color: #f82249;
-  border: 1px solid #f82249;
+  color: #e71f3c;
+  border: 1px solid #e71f3c;
   display: none;
   text-align: center;
   padding: 15px;
@@ -1400,7 +1400,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #contact .form button[type="submit"] {
-  background: #f82249;
+  background: #e71f3c;
   border: 0;
   padding: 10px 40px;
   color: #fff;
@@ -1475,7 +1475,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #footer .footer-top .social-links a:hover {
-  background: #f82249;
+  background: #e71f3c;
   color: #fff;
 }
 
@@ -1486,7 +1486,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   text-transform: uppercase;
   position: relative;
   padding-bottom: 12px;
-  border-bottom: 2px solid #f82249;
+  border-bottom: 2px solid #e71f3c;
 }
 
 #footer .footer-top .footer-links {
@@ -1501,7 +1501,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 #footer .footer-top .footer-links ul i {
   padding-right: 5px;
-  color: #f82249;
+  color: #e71f3c;
   font-size: 18px;
 }
 
@@ -1519,7 +1519,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #footer .footer-top .footer-links ul a:hover {
-  color: #f82249;
+  color: #e71f3c;
 }
 
 #footer .footer-top .footer-contact {
@@ -1541,7 +1541,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #footer .footer-top .footer-newsletter input[type="submit"] {
-  background: #f82249;
+  background: #e71f3c;
   border: 0;
   width: 35%;
   padding: 6px 0;
