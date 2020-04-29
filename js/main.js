@@ -1,5 +1,5 @@
 jQuery(document).ready(function( $ ) {
-  // try to fix merge
+  // tru
   // Back to top button
   $(window).scroll(function() {
     if ($(this).scrollTop() > 100) {

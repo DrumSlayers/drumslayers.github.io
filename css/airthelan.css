@@ -32,6 +32,23 @@
   border-radius: 10px;
 }
 
+.img-sponso {
+  border-radius: 10px; 
+  margin-left: auto; 
+  margin-right: auto;
+  vertical-align: middle;
+  margin-top: auto;
+  margin-bottom: auto;
+  display: block;
+    object-fit: contain;
+    padding-top: 7px;
+  padding-bottom: 15px;
+  max-width: 100%;
+  max-height: 100%; 
+
+}
+
+
             /* The Modal (background) */
             .modal {
             border-radius:  20px;
@@ -56,7 +73,14 @@
               vertical-align: middle;
             }
 
+            .modal-dialog{
+              max-width: 750px;
+            }
 
+.archive{
+  padding-top: 7px;
+  padding-bottom: 60px; 
+}
 /*--------------------------------------------------------------
 # General
 --------------------------------------------------------------*/
