@@ -9,7 +9,30 @@
 */
 
 /* custom airthelan */
-.discord{
+.center-content {
+  position: relative;
+  padding-bottom: 20px;
+}
+
+.center-content h2 {
+  font-size: 36px;
+  text-transform: uppercase;
+  text-align: center;
+  font-weight: 700;
+  margin-bottom: 10px;
+}
+
+.center-content p {
+  text-align: center;
+  padding: 0;
+  margin: 0;
+  font-size: 18px;
+  font-weight: 500;
+  color: #9195a2;
+}
+
+#discord{
+  padding-top: 30px;
   text-align: center;
   margin-left: auto;
   margin-right: auto;
@@ -79,7 +102,7 @@
 
 .archive{
   padding-top: 7px;
-  padding-bottom: 60px; 
+  padding-bottom: 60px;
 }
 /*--------------------------------------------------------------
 # General
@@ -179,7 +202,7 @@ h6 {
 --------------------------------*/
 
 .section-header {
-  margin-bottom: 60px;
+  margin-bottom: 50px;
   position: relative;
   padding-bottom: 20px;
 }
